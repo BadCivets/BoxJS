@@ -2,7 +2,7 @@
  
  本代码基于大佬lxk0301
 
- 活动地址：https://computerdigital.m.jd.com/#/share?shareId=bef847a9-0d1b-41cf-ad40-a76d1d3435b7&activityId=dell1106&t=1605178834870
+ 活动地址：https://raw.githubusercontent.com/BadCivets/BoxJS/main/icon/thanks.png
  活动时间截止：2020年11月13日 23:59:59
  出现任务做完没领取的情况，就再运行一次。
 
