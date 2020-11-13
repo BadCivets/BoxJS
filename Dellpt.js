@@ -13,8 +13,8 @@
 //设置cookie
 let cookiesArr = [];
 
-const $= new Env('戴尔新品上市');
-const shareID = ['bef847a9-0d1b-41cf-ad40-a76d1d3435b7'];
+const $= new Env('戴尔拼团');
+const shareID = ['9fbd5195-3ee7-4ccb-80c2-d57f36d427fc'];
 const activeID = 'dell1106';
 const activeEndTime = '2020/11/13 23:59:59';
 const JD_API_HOST = 'https://computerdigital.m.jd.com/acd';
