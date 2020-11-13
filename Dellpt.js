@@ -2,7 +2,7 @@
  
  本代码基于大佬lxk0301
 
- 活动地址：https://raw.githubusercontent.com/BadCivets/BoxJS/main/icon/thanks.png
+ 活动地址：<div align=center><img width="250" height="250" src="https://github.com/BadCivets/BoxJS/raw/main/icon/thanks.png"/></div>
  活动时间截止：2020年11月13日 23:59:59
  出现任务做完没领取的情况，就再运行一次。
 
