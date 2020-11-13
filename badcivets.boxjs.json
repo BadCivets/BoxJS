@@ -1,0 +1,31 @@
+{
+  "id": "badcivets.app.sub",
+  "name": "badcivets脚本订阅",
+  "author": "badcivets",
+  "icon": "https://avatars0.githubusercontent.com/u/21308593?s=52&v=4",
+  "repo": "https://github.com/lxk0301/jd_scripts/",
+  "apps": [
+    {
+      "id": "JD_Cookies",
+      "name": "京东多账号 Ck 管理",
+      "keys": ["CookiesJD"],
+      "settings": [
+        {
+          "id": "CookiesJD",
+          "name": "CK 列表",
+          "val": "",
+          "type": "textarea",
+          "autoGrow": true,
+          "rows": 8,
+          "desc": "CK 列表 (JSON 格式)"
+        }
+      ],
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
+        "https://raw.githubusercontent.com/Orz-3/task/master/jd.png"
+      ],
+      "author": "@dompling",
+      "repo": "https://github.com/dompling/Script",
+      "script": "https://raw.githubusercontent.com/dompling/Script/master/jd/JD_extra.js"
+    },
+    {
