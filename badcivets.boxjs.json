@@ -9,7 +9,7 @@
       "id": "rrtv",
       "name": "人人视频",
       "keys": ["chavy_cookie_rrtv"],
-      "author": "@badcivets",
+      "author": "@chavyleung",
       "repo": "https://github.com/chavyleung/scripts/tree/master/rrtv",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/rrtv.png", "https://raw.githubusercontent.com/Orz-3/task/master/rrtv.png"],
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js"
